@@ -1,22 +1,24 @@
-#######This is a simple automation tool that helps organize files and check file issues in a folder.
+📝 Description
+
+This is a simple automation tool that helps organize files and check file issues in a folder.
 It automatically sorts files based on their type and identifies common problems like empty or duplicate files.
 
-Features
+✨ Features
 
-Automatically organizes files into folders
+📂 Automatically organizes files into folders
 
-Checks for empty files
+🧹 Checks for empty files
 
-Detects duplicate files
+🔁 Detects duplicate files
 
-Generates a basic summary report
+📊 Generates a basic summary report
 
-Saves time and reduces manual work
+⏱️ Saves time and reduces manual work
 
-Use Case
+🎯 Use Cases
 
-Organizing project folders
+📁 Organizing project folders
 
-Cleaning download directories
+🗂️ Cleaning download directories
 
-Managing office or client files
+🏢 Managing office or client files
